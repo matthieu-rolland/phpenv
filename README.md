@@ -1,4 +1,4 @@
-## BASIC Alpine PHP / symfony dev environment
+## BASIC Debian PHP / symfony dev environment
 
 ### Includes:
 
